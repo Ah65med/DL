@@ -10,6 +10,13 @@ and inference. Backed by PostgreSQL and deployable with Docker Compose.
 
 Built as a Deep Learning course project.
 
+## Contributors
+
+- [@talal](https://github.com/talal-11)
+- [@ahmed](https://github.com/Ah65med)
+- [@neha](https://github.com/nehalq)
+- [@shayan](https://github.com/sfxdeve)
+
 ## How It Works
 
 **Stage 1 — Autoencoder (PyTorch)**
